@@ -17,9 +17,9 @@ El Hub Providencia enfrenta dificultades en la gestión de reservas y control de
 
 | Integrante | Carrera o especialidad | Rol inicial | Usuario de GitHub |
 |---|---|---|---|
-| Luckas Ariel Asencio Vargas | Ingeniería Civil en Computación e Informática | [Rol] | [@TuUsuario] |
-| [Nombre de Compañero 1] | [Su Carrera] | [Su Rol] | [@SuUsuario] |
-| [Nombre de Compañero 2] | [Su Carrera] | [Su Rol] | [@SuUsuario] |
+| Luckas Ariel Asencio Vargas | Ingeniería Civil en Computación e Informática | [Rol] | Deltah2 |
+| Felipe Andrés Barrios Dos Santos | Ingeniería Civil en Computación e Informática  | [Su Rol] | FBarriosDS |
+| José Ignacio Bernal Suárez | Ingeniería Civil Industrial | [Su Rol] | [@SuUsuario] |
 
 ## Valores del equipo
 
