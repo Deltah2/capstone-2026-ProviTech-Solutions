@@ -19,13 +19,13 @@ El Hub Providencia enfrenta dificultades en la gestión de reservas y control de
 |---|---|---|---|
 | Luckas Ariel Asencio Vargas | Ingeniería Civil en Computación e Informática | [Rol] | Deltah2 |
 | Felipe Andrés Barrios Dos Santos | Ingeniería Civil en Computación e Informática  | [Su Rol] | FBarriosDS |
-| José Ignacio Bernal Suárez | Ingeniería Civil Industrial | [Su Rol] | [@SuUsuario] |
+| José Ignacio Bernal Suárez | Ingeniería Civil Industrial | [Su Rol] | Joselingard |
 
 ## Valores del equipo
 
-- [Valor 1]
-- [Valor 2]
-- [Valor 3]
+- **Comunicación abierta:** Expresar ideas con claridad, mantener al equipo informado sobre los avances individuales y avisar de inmediato si alguien se encuentra bloqueado con una tarea para buscar soluciones en conjunto.
+- **Disciplina técnica:** Mantener la constancia y el rigor al momento de investigar herramientas, escribir el código y documentar el proyecto, asegurando que cada entrega cumpla con los estándares del curso.
+- **Ética y responsabilidad:** Asumir los compromisos individuales con seriedad y manejar los datos del Hub Providencia (y de sus futuros usuarios) con altos estándares de seguridad y profesionalismo.
 
 ## Normas de funcionamiento
 
