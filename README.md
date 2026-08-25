@@ -2,10 +2,10 @@
 
 ## Capstone Intermedio 2026
 
-**Equipo:** Provitech Solutions
-**Desafío:** Sistema integrado de reserva y uso de espacios
-**Contraparte:** Municipalidad de Providencia / Hub Providencia
-**Estado actual:** En desarrollo
+- **Equipo:** Provitech Solutions
+- **Desafío:** Sistema integrado de reserva y uso de espacios
+- **Contraparte:** Municipalidad de Providencia / Hub Providencia / Universidad Mayor
+- **Estado actual:** En desarrollo
 
 ![Foto del equipo Provitech Solutions](https://github.com/Deltah2/capstone-2026-ProviTech-Solutions/blob/e04b483d86656e7c72806fcb1166dc9d31364475/Imagenes%20/S01/Foto-de-equipo.png)
 
@@ -24,7 +24,9 @@ El Hub Providencia enfrenta dificultades en la gestión de reservas y control de
 ## Valores del equipo
 
 - **Comunicación abierta:** Expresar ideas con claridad, mantener al equipo informado sobre los avances individuales y avisar de inmediato si alguien se encuentra bloqueado con una tarea para buscar soluciones en conjunto.
+
 - **Disciplina técnica:** Mantener la constancia y el rigor al momento de investigar herramientas, escribir el código y documentar el proyecto, asegurando que cada entrega cumpla con los estándares del curso.
+  
 - **Ética y responsabilidad:** Asumir los compromisos individuales con seriedad y manejar los datos del Hub Providencia (y de sus futuros usuarios) con altos estándares de seguridad y profesionalismo.
 
 ## Normas de funcionamiento
