@@ -31,11 +31,15 @@ El Hub Providencia enfrenta dificultades en la gestión de reservas y control de
 
 ## Normas de funcionamiento
 
-1. [Norma 1]
-2. [Norma 2]
-3. [Norma 3]
-4. En caso de desacuerdo: [Cómo resolveremos desacuerdos]
-5. Decisiones importantes: [Cómo registraremos las decisiones]
+1. **Reuniones y coordinación:** Realizaremos al menos una reunión semanal de sincronización para evaluar el estado del proyecto. La comunicación oficial y técnica del equipo se centralizará a través del canal acordado.
+   
+2. **Puntualidad y responsabilidad:** Cualquier integrante que no pueda asistir a una reunión programada o prevea un retraso en sus tareas asignadas, deberá avisar al equipo con un mínimo de 24 horas de anticipación.
+   
+3. **Calidad y control de versiones:** Todo código, diagrama o documento técnico debe ser revisado por al menos un integrante distinto al autor antes de ser integrado a la versión final del proyecto.
+   
+4. **En caso de desacuerdo:** Los debates se abordarán desde una perspectiva técnica y fundamentada en los requerimientos del desafío. De no alcanzar un consenso, se resolverá mediante votación por mayoría simple; en caso de empate, se elevará la consulta al equipo docente.
+   
+5. **Decisiones importantes:** Toda decisión arquitectónica, selección de tecnologías o cambio de rumbo en el proyecto quedará registrada formalmente en la bitácora de la semana correspondiente para mantener la trazabilidad.
 
 ## Desafío inicial
 
