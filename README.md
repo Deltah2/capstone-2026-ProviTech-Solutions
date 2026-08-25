@@ -7,7 +7,7 @@
 **Contraparte:** Municipalidad de Providencia / Hub Providencia
 **Estado actual:** En desarrollo
 
-![Foto del equipo Provitech Solutions](Imagenes/S01/foto-equipo.png)
+![Foto del equipo Provitech Solutions](Imagenes/S01/Foto-de-equipo.png)
 
 ## Descripción
 
