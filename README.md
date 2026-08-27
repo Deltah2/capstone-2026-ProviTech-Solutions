@@ -7,7 +7,7 @@
 - **Contraparte:** Municipalidad de Providencia / Hub Providencia / Universidad Mayor
 - **Estado actual:** En desarrollo
 
-![Foto del equipo Provitech Solutions](https://github.com/Deltah2/capstone-2026-ProviTech-Solutions/blob/e04b483d86656e7c72806fcb1166dc9d31364475/Imagenes%20/S01/Foto-de-equipo.png)
+![Foto del equipo Provitech Solutions](https://github.com/Deltah2/capstone-2026-ProviTech-Solutions/blob/2c59393a4ddb8901437b4c2cf9892c380ae557db/Imagenes%20/S02/Foto-de-equipo.png)
 
 ## Descripción
 
