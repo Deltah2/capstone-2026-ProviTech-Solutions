@@ -19,7 +19,7 @@ El Hub Providencia enfrenta dificultades en la gestión de reservas y control de
 |---|---|---|---|
 | Luckas Ariel Asencio Vargas | Ingeniería Civil en Computación e Informática | Representante / Desarrollador Backend y BD | Deltah2 |
 | Felipe Andrés Barrios Dos Santos | Ingeniería Civil en Computación e Informática | Desarrollador Frontend e Integración | FBarriosDS |
-| José Ignacio Bernal Suárez | Ingeniería Civil Industrial | Analist
+| José Ignacio Bernal Suárez | Ingeniería Civil Industrial | Analist | Joselingard |
 
 ## Valores del equipo
 
