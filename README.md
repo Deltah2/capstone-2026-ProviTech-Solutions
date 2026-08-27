@@ -53,31 +53,21 @@ Desarrollar un prototipo funcional de plataforma web para gestionar las reservas
 
 | Integrante | Compromiso SMART |
 |---|---|
-| Luckas Ariel Asencio Vargas | [Ej: Diseñar la estructura inicial de la base de datos para la semana 3] |
-| [Compañero 1] | [Su Compromiso] |
-| [Compañero 2] | [Su Compromiso] |
+| **Luckas Ariel Asencio Vargas (Representante)** | Diseñar e implementar el modelo de base de datos relacional (en SQL) para el registro y gestión de reservas, entregando la primera versión de la estructura antes del 15 de septiembre de 2026. |
+| **Felipe Andrés Barrios Dos Santos** | Desarrollar los wireframes iniciales y la maqueta base en HTML/CSS para el flujo de reserva de laboratorios, validándolos con el equipo antes del 15 de septiembre de 2026. |
+| **José Ignacio Bernal Suárez** | Levantar y documentar formalmente el proceso actual de reservas del Hub Providencia, definiendo al menos 3 indicadores clave de uso (KPIs) para el panel de administración antes del 15 de septiembre de 2026. |
 
 ## Usuarios y contexto
 
 Los principales usuarios son el equipo de administración del Hub Providencia y las personas que reservan salas, cowork y laboratorios. El problema ocurre en el edificio del Hub. La evidencia actual es que el proceso manual (especialmente vía correo) es engorroso, descentralizado y no permite analizar fácilmente la demanda o disponibilidad de los espacios.
 
 ## Plan inicial
-
-| Actividad | Responsable(s) | Fecha | Estado |
-|---|---|---|---|
-| Levantamiento del proceso actual y puntos críticos con Hub Providencia | Equipo completo | 02-09-2026 | Pendiente |
-| Diseño de wireframes y experiencia de usuario (flujo de laboratorios) | [Compañero 1] | 07-09-2026 | Pendiente |
-| Modelado de la base de datos (SQL) para registro histórico | Luckas Ariel Asencio Vargas | 07-09-2026 | Pendiente |
-| Definición de validación de acceso (ej. códigos QR o PIN) | [Compañero 2] | 11-09-2026 | Pendiente |
-| Desarrollo del backend (lógica de reservas en Python) | Luckas Ariel Asencio Vargas | 18-09-2026 | Pendiente |
-| Estructuración del frontend (HTML/CSS) para el prototipo web | [Compañero 1 / Compañero 2] | 18-09-2026 | Pendiente |
-| Integración del panel de indicadores básicos de demanda | Equipo completo | 25-09-2026 | Pendiente |
+Por definir
 
 ## Índice de la bitácora
 
 - [S01 - Identidad del equipo y desafío](bitacora/S01.md)
-- [S02 - Levantamiento inicial](bitacora/S02.md)
-- [S03 - Empatizar](bitacora/S03.md)
+
 
 ## Evidencias principales
 
@@ -91,8 +81,8 @@ Los principales usuarios son el equipo de administración del Hub Providencia y 
 
 ## Próximo hito
 
-Levantar y documentar el proceso actual de reserva y sus puntos críticos con la contraparte para entender el flujo detallado de los laboratorios.
+Por definir
 
 ## Uso y licencia
 
-Por definir con el equipo docente y la Municipalidad de Providencia. No reutilizar ni publicar información reservada sin autorización.
+Por definir
