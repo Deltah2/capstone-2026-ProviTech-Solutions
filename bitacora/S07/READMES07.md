@@ -4,9 +4,13 @@ Equipo: Provitech Solutions
 Proyecto: Sistema integrado para la gestión de reservas y uso de espacios (Hub Providencia)
 Fecha: 29 de octubre de 2026
 
+![Foto del equipo Provitech Solutions](https://github.com/Deltah2/capstone-2026-ProviTech-Solutions/blob/dbb7ffa9e46852e7f1d204524abfd25f38886d74/Imagenes%20/S07/IMG_2980.jpeg)
+
 1. Resumen de Actividades
 
 Durante la Semana 7, el equipo realizó una salida a terreno al Hub Providencia para llevar a cabo la fase de empatía y observación directa. Se realizó una entrevista y levantamiento de requerimientos con la administración del recinto para comprender en profundidad los flujos de trabajo actuales, las limitantes tecnológicas y las reglas de negocio de los espacios físicos.
+
+![Foto del equipo Provitech Solutions](https://github.com/Deltah2/capstone-2026-ProviTech-Solutions/blob/dbb7ffa9e46852e7f1d204524abfd25f38886d74/Imagenes%20/S07/IMG_2969.jpeg)
 
 2. Hallazgos del Levantamiento en Terreno
 
@@ -37,3 +41,5 @@ Bases de Datos: La municipalidad e institución están en proceso de migrar su e
 Sistema de Identidad Única: El "sueño" administrativo es tener un sistema similar a la Clave Única, donde el usuario se registre solo una vez en una base centralizada y, en sus visitas posteriores, solo valide su ingreso de forma rápida.
 
 Métricas (KPIs): Actualmente no tienen forma de medir la ocupación real del espacio ni de trazar los horarios "punta", un requerimiento fundamental que nuestra plataforma deberá solucionar.
+
+![Foto del equipo Provitech Solutions](https://github.com/Deltah2/capstone-2026-ProviTech-Solutions/blob/dbb7ffa9e46852e7f1d204524abfd25f38886d74/Imagenes%20/S07/IMG_2971.jpeg)
