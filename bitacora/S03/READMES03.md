@@ -1,39 +1,37 @@
-# S03 - Design Thinking: Fase de Comprensión
+# S03 - Fase de Comprensión: Design Thinking
 
-**Fechas:** Semana del 1 de septiembre de 2026  
+**Fecha:** 1 de septiembre de 2026  
 **Participantes:** Luckas Ariel Asencio Vargas, Felipe Andrés Barrios Dos Santos, José Ignacio Bernal Suárez  
 **Responsable del registro:** Luckas Ariel Asencio Vargas
 
----
-
-## 1. Objetivo de la Semana
-
-Iniciar la fase de **Comprensión** de la metodología Design Thinking (basada en el modelo de la D-School HPI). El objetivo principal de esta sesión no es buscar soluciones, sino entender a profundidad el problema del Hub Providencia, empatizar con los usuarios afectados y desglosar el desafío mediante herramientas visuales.
-
-## 2. Actividades Realizadas
-
-Durante esta clase teórica-práctica llevamos a cabo las siguientes actividades:
-1. **Introducción al Design Thinking:** Comprensión de los pilares de la innovación (Factibilidad técnica, viabilidad del negocio y deseabilidad humana).
-2. **Construcción del Mapa Conceptual:** Desglose del desafío inicial del Hub Providencia para identificar actores, causas, consecuencias y el contexto.
-3. **Construcción del Mapa de Empatía:** Ejercicio para "ponernos en los zapatos" de nuestro usuario principal (el equipo de administración del Hub) y entender sus dolores y necesidades.
+## Objetivo de la Sesión
+Aplicar las herramientas de la fase de "Comprensión" de la metodología Design Thinking, con el fin de desglosar el desafío del Hub Providencia y generar empatía con el usuario principal (Administrador del Hub). Para ello, se desarrollaron un Mapa Conceptual y un Mapa de Empatía.
 
 ---
 
-## 3. Mapa Conceptual del Desafío
+## 1. Mapa Conceptual del Desafío
 
-Realizamos un diagrama en equipo colocando en el centro nuestro desafío inicial: *La gestión 100% manual y descentralizada de los espacios del Hub Providencia.*
+**Desafío Central:** Digitalizar y automatizar las reservas del Hub Providencia.
 
-A partir de ahí, identificamos:
-*   **Actores:** Equipo de administración, usuarios finales (emprendedores/estudiantes), Municipalidad.
-*   **Causas:** Uso exclusivo de correos electrónicos, falta de plataformas unificadas.
-*   **Consecuencias:** Cuellos de botella, sobrecarga laboral, "reservas fantasma", topes de horario, falta de KPIs.
+### Desglose del Problema:
+*   **Contexto:** Edificio Hub Providencia (enfocado en Laboratorios y cowork).
+*   **Causas o factores:** Proceso 100% manual y coordinación exclusiva vía correo electrónico.
+*   **Actores involucrados:** Usuarios (estudiantes y emprendedores) y Administradores del Hub.
+*   **Consecuencias e impactos:** Falta de métricas y KPIs de uso, cuellos de botella administrativos, y ausencia de un historial consolidado.
+*   **Conceptos importantes:** Automatización y digitalización, validación de acceso por QR o PIN, y uso obligatorio de herramientas sin costo de licencia.
+*   **Lo que sabemos:** El sistema actual por correo es ineficiente.
+*   **Lo que necesitamos saber:** Paso a paso actual al recibir un correo, planillas utilizadas para ordenar la información, y requisitos para validar el acceso físicamente.
 
 ### Evidencia:
-![Mapa Conceptual Hub Providencia](https://github.com/Deltah2/capstone-2026-ProviTech-Solutions/blob/60744fd79da2b1538952a073899bafe4b99f7132/imagenes%20/S03/Mapa_conceptual.png)
+<details>
+<summary><b>Haz clic aquí para ver el Mapa Conceptual</b></summary>
+<br>
+<img src="https://github.com/Deltah2/capstone-2026-ProviTech-Solutions/blob/60744fd79da2b1538952a073899bafe4b99f7132/imagenes%20/S03/Mapa_conceptual.png?raw=true" alt="Mapa Conceptual Hub Providencia" width="100%">
+</details>
 
 ---
 
-## 4. Mapa de Empatía
+## 2. Mapa de Empatía
 
 Decidimos enfocar nuestro primer mapa de empatía en el **Equipo de Administración del Hub**, ya que son quienes sufren la mayor carga operativa actualmente.
 
@@ -48,11 +46,15 @@ Decidimos enfocar nuestro primer mapa de empatía en el **Equipo de Administraci
 **Resultados (Deseados):** Tener una plataforma única que automatice el acceso y le devuelva tiempo para gestionar verdaderos proyectos de innovación.
 
 ### Evidencia:
-![Mapa de Empatía Administración](https://github.com/Deltah2/capstone-2026-ProviTech-Solutions/blob/60744fd79da2b1538952a073899bafe4b99f7132/imagenes%20/S03/Mapa_empatia.png)
+<details>
+<summary><b>Haz clic aquí para ver el Mapa de Empatía</b></summary>
+<br>
+<img src="https://github.com/Deltah2/capstone-2026-ProviTech-Solutions/blob/60744fd79da2b1538952a073899bafe4b99f7132/imagenes%20/S03/Mapa_empatia.png?raw=true" alt="Mapa de Empatía Administración" width="100%">
+</details>
 
 ---
 
-## 5. Supuestos y Preguntas a Validar (Lo que aún no sabemos)
+## 3. Supuestos y Preguntas a Validar (Lo que aún no sabemos)
 
 A partir de los mapas, transformamos nuestras dudas en las siguientes preguntas abiertas que deberemos validar en terreno (en la fase de Observación):
 
@@ -61,10 +63,8 @@ A partir de los mapas, transformamos nuestras dudas en las siguientes preguntas 
 3. ¿Qué soluciones tecnológicas (como tablets o lectores QR) pueden ser compatibles con la infraestructura actual del edificio?
 
 ---
-### Evidencia:
-![Foto1](https://github.com/Deltah2/capstone-2026-ProviTech-Solutions/blob/60744fd79da2b1538952a073899bafe4b99f7132/imagenes%20/S03/s031.png)
-![Foto2](https://github.com/Deltah2/capstone-2026-ProviTech-Solutions/blob/60744fd79da2b1538952a073899bafe4b99f7132/imagenes%20/S03/s032.png)
-![Foto3](https://github.com/Deltah2/capstone-2026-ProviTech-Solutions/blob/60744fd79da2b1538952a073899bafe4b99f7132/imagenes%20/S03/s033.png)
 
-
----
+### Evidencias del Trabajo en Equipo:
+![Foto1](https://github.com/Deltah2/capstone-2026-ProviTech-Solutions/blob/60744fd79da2b1538952a073899bafe4b99f7132/imagenes%20/S03/s031.png?raw=true)
+![Foto2](https://github.com/Deltah2/capstone-2026-ProviTech-Solutions/blob/60744fd79da2b1538952a073899bafe4b99f7132/imagenes%20/S03/s032.png?raw=true)
+![Foto3](https://github.com/Deltah2/capstone-2026-ProviTech-Solutions/blob/60744fd79da2b1538952a073899bafe4b99f7132/imagenes%20/S03/s033.png?raw=true)
