@@ -64,7 +64,7 @@ Los principales usuarios son el **equipo de administración del Hub Providencia*
 
 *   [S02 - Configuración Inicial y Definición del Equipo](bitacora/S02/READMES02.md)
 *   [S03 - Fase de Comprensión: Design Thinking](bitacora/S03/READMES03.md)
-*   [S04 - Inactividad Institucional](bitacora/S04/READMES04.md)
+*   [S04 - Inactividad Institucional](https://github.com/Deltah2/capstone-2026-ProviTech-Solutions/blob/4bc4ee19ed49ff1bde506e611c96f6ca623652a7/bitacora/S04%20/READMES04.md)
 *   [S05 - Informe de Avances y Fichas de Estado](bitacora/S05/READMES05.md)
 *   [S06 - Receso Fiestas Patrias](bitacora/S06/READMES06.md)
 *   [S07 - Levantamiento en Terreno Hub Providencia](bitacora/S07/READMES07.md)
