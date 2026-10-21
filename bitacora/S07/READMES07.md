@@ -26,7 +26,7 @@ A partir de la conversación con el equipo del Hub, se definieron los siguientes
 *   **Trabajo manual:** La administración pierde horas valiosas limpiando los datos ingresados en el formulario debido a faltas de ortografía o inconsistencias.
 
 <p align="center">
-  <img src="https://github.com/Deltah2/capstone-2026-ProviTech-Solutions/blob/dbb7ffa9e46852e7f1d204524abfd25f38886d74/Imagenes%20/S07/IMG_2969.jpeg?raw=true" alt="Entrevista en Hub Providencia" width="80%">
+  <img src="https://github.com/Deltah2/capstone-2026-ProviTech-Solutions/blob/bb6303100a8037f5b57243a7101c0761576adf97/imagenes%20/S07/IMG_2969.jpeg" alt="Entrevista en Hub Providencia" width="80%">
 </p>
 
 ### B. Reglas de Negocio (Lógica para el Sistema)
@@ -41,5 +41,10 @@ A partir de la conversación con el equipo del Hub, se definieron los siguientes
 *   **Métricas (KPIs):** Actualmente no tienen forma de medir la ocupación real del espacio ni de trazar los horarios "punta", un requerimiento fundamental que nuestra plataforma deberá solucionar.
 
 <p align="center">
-  <img src="https://github.com/Deltah2/capstone-2026-ProviTech-Solutions/blob/dbb7ffa9e46852e7f1d204524abfd25f38886d74/Imagenes%20/S07/IMG_2971.jpeg?raw=true" alt="Recorriendo las instalaciones" width="80%">
+  <img src="https://github.com/Deltah2/capstone-2026-ProviTech-Solutions/blob/bb6303100a8037f5b57243a7101c0761576adf97/imagenes%20/S07/IMG_2971.jpeg" alt="Recorriendo las instalaciones" width="80%">
 </p>
+
+<p align="center">
+  <img src="https://github.com/Deltah2/capstone-2026-ProviTech-Solutions/blob/bb6303100a8037f5b57243a7101c0761576adf97/imagenes%20/S07/IMG_2968.jpeg" alt="Recorriendo las instalaciones" width="80%">
+</p>
+
