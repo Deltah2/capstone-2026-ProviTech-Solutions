@@ -41,7 +41,7 @@ Resolver esto es prioritario porque la forma actual de trabajar trae consecuenci
 *   **Equipamiento e infraestructura:** Revisar qué tablets, pantallas, internet o lectores tienen instalados para ver cómo implementar el control de acceso (por ejemplo, con PIN o código QR).
 *   **Criterios de prioridad:** Aclarar cuáles son las reglas para resolver topes de horario si dos personas piden la misma sala al mismo tiempo.
 
-#### Evidencias - Parte 1
+ Evidencias - Parte 1
 ![Foto1](https://github.com/Deltah2/capstone-2026-ProviTech-Solutions/blob/81747ea2c09f66f342dcc920de56cb856a2e28f6/imagenes%20/S05/F1.1.png)
 ![Foto2](https://github.com/Deltah2/capstone-2026-ProviTech-Solutions/blob/81747ea2c09f66f342dcc920de56cb856a2e28f6/imagenes%20/S05/F1.2.png)
 ![Foto3](https://github.com/Deltah2/capstone-2026-ProviTech-Solutions/blob/81747ea2c09f66f342dcc920de56cb856a2e28f6/imagenes%20/S05/F1.3.png)
