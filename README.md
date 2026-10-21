@@ -60,7 +60,6 @@ Los principales usuarios son el **equipo de administración del Hub Providencia*
 
 ## Índice de la Bitácora
 
-## Índice de la Bitácora
 
 *   [S02 - Configuración Inicial y Definición del Equipo](bitacora/S02/READMES02.md)
 *   [S03 - Fase de Comprensión: Design Thinking](bitacora/S03/READMES03.md)
