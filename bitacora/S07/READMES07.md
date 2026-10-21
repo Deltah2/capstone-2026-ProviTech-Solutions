@@ -11,7 +11,7 @@
 Durante la Semana 7, el equipo realizó una salida a terreno al Hub Providencia para llevar a cabo la fase de empatía y observación directa. Se realizó una entrevista y levantamiento de requerimientos con la administración del recinto para comprender en profundidad los flujos de trabajo actuales, las limitantes tecnológicas y las reglas de negocio de los espacios físicos.
 
 <p align="center">
-  <img src="https://github.com/Deltah2/capstone-2026-ProviTech-Solutions/blob/dbb7ffa9e46852e7f1d204524abfd25f38886d74/Imagenes%20/S07/IMG_2980.jpeg?raw=true" alt="Visita a Terreno Hub Providencia" width="80%">
+  <img src="https://github.com/Deltah2/capstone-2026-ProviTech-Solutions/blob/ff5c2692003bc7be40d4a5c9cb9a8fefe17b5969/imagenes%20/S07/IMG_2981.jpeg" alt="Visita a Terreno Hub Providencia" width="80%">
 </p>
 
 ---
