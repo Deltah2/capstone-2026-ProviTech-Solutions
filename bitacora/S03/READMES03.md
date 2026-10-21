@@ -23,12 +23,8 @@ Aplicar las herramientas de la fase de "Comprensión" de la metodología Design 
 *   **Lo que necesitamos saber:** Paso a paso actual al recibir un correo, planillas utilizadas para ordenar la información, y requisitos para validar el acceso físicamente.
 
 ### Evidencia:
-<details>
-<summary><b>Haz clic aquí para ver el Mapa Conceptual</b></summary>
-<br>
-<img src="https://github.com/Deltah2/capstone-2026-ProviTech-Solutions/blob/60744fd79da2b1538952a073899bafe4b99f7132/imagenes%20/S03/Mapa_conceptual.png?raw=true" alt="Mapa Conceptual Hub Providencia" width="100%">
-</details>
 
+![Foto1](https://github.com/Deltah2/capstone-2026-ProviTech-Solutions/blob/60744fd79da2b1538952a073899bafe4b99f7132/imagenes%20/S03/Mapa_conceptual.png?raw=true)
 ---
 
 ## 2. Mapa de Empatía
@@ -46,11 +42,8 @@ Decidimos enfocar nuestro primer mapa de empatía en el **Equipo de Administraci
 **Resultados (Deseados):** Tener una plataforma única que automatice el acceso y le devuelva tiempo para gestionar verdaderos proyectos de innovación.
 
 ### Evidencia:
-<details>
-<summary><b>Haz clic aquí para ver el Mapa de Empatía</b></summary>
-<br>
-<img src="https://github.com/Deltah2/capstone-2026-ProviTech-Solutions/blob/60744fd79da2b1538952a073899bafe4b99f7132/imagenes%20/S03/Mapa_empatia.png?raw=true" alt="Mapa de Empatía Administración" width="100%">
-</details>
+![Foto1](https://github.com/Deltah2/capstone-2026-ProviTech-Solutions/blob/60744fd79da2b1538952a073899bafe4b99f7132/imagenes%20/S03/Mapa_empatia.png?raw=true)
+
 
 ---
 
