@@ -6,8 +6,7 @@
 * **Contraparte:** Municipalidad de Providencia / Hub Providencia / Universidad Mayor
 * **Estado actual:** Fase de Prototipado y Pitch (Semana 11)
 
-(https://github.com/Deltah2/capstone-2026-ProviTech-Solutions/blob/dd0fdd9df61dfc4fe074d738f4c913fc5c7ab427/imagenes%20/S02/Foto_Equipo.png)
-
+![Foto del equipo Provitech Solutions](https://github.com/Deltah2/capstone-2026-ProviTech-Solutions/blob/4081d057d2db0b20064b6646be1a6b899dfc1817/imagenes%20/S02/Foto_Equipo.png)
 ## Descripción
 
 El Hub Providencia enfrenta dificultades en la gestión de reservas y control de uso de sus espacios (salas, cowork y especialmente laboratorios). Actualmente, este proceso exige una coordinación manual a través de múltiples canales, siendo el correo electrónico el método principal para los laboratorios. Esto vuelve el proceso engorroso, genera cuellos de botella para el equipo de administración y no deja un historial consolidado de uso. 
