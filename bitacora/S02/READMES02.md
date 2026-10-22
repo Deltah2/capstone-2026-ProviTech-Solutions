@@ -82,6 +82,4 @@ El Hub Providencia enfrenta dificultades en la gestión de reservas y control de
 ![Contrato de Equipo y Compromisos2](https://github.com/Deltah2/capstone-2026-ProviTech-Solutions/blob/1de9d1cde954cbd5cbed31e85411b0fb3fe23905/imagenes%20/S02/Contrato_equipo_3.png)
 
 
-
-*   📄 **[Contrato de Equipo y Compromisos (PDF)](./Contrato_de_equipo.pdf)**
 *   Fuentes consultadas: Pauta y requerimientos del curso Capstone Intermedio 2026, Universidad Mayor.
