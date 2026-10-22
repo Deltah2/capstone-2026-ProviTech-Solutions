@@ -6,9 +6,7 @@
 * **Contraparte:** Municipalidad de Providencia / Hub Providencia / Universidad Mayor
 * **Estado actual:** Fase de Prototipado y Pitch (Semana 11)
 
-<p align="center">
-  <img src="https://github.com/Deltah2/capstone-2026-ProviTech-Solutions/blob/4081d057d2db0b20064b6646be1a6b899dfc1817/imagenes%20/S02/Foto_Equipo.png?raw=true" alt="Foto del equipo Provitech Solutions" width="80%">
-</p>
+[Foto_Equipo](https://github.com/Deltah2/capstone-2026-ProviTech-Solutions/blob/dd0fdd9df61dfc4fe074d738f4c913fc5c7ab427/imagenes%20/S02/Foto_Equipo.png)
 
 ## Descripción
 
